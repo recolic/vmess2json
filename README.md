@@ -1,3 +1,9 @@
+# vmess2json recolic modification
+
+1. Allow parsing vless URL
+2. Remove embedded confusing DNS & Routing settings
+3. If COMMENT contains "SPOOF", set allowInsecure=true
+
 # VmessUtils
 
 VmessUtils consist of a bundle of python scripts that works with vmess:// format and the subscription.
